@@ -1,0 +1,12 @@
+{
+  "name": "interpolate-string",
+  "version": "1.0.0",
+  "description": "Simple string interpolation without dependencies.",
+  "keywords": ["string interpolation", "variable interpolation", "variable substitution", "variable expansion"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "László Bulik",
+  "license": "MIT"
+}
